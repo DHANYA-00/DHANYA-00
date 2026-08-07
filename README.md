@@ -1,19 +1,26 @@
 <div align="center">
 
-# DHANYA LAKSHMI S S
-
-### `software engineer in progress`
-
-**Computer Science Student · Full-Stack Developer · Builder**
-
-*Turning ideas into software that people can actually use.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Dhanya+Lakshmi+S+S+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Always+building+something+new." alt="Typing introduction" />
 
 <br>
 
-[ **Portfolio** ](https://dhanya-portfolio-flax.vercel.app/) ·
-[ **LinkedIn** ](https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/) ·
-[ **LeetCode** ](https://leetcode.com/u/sHv5f7MeTX/) ·
-**Chennai, India**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="85%" />
+
+### `BUILD • LEARN • SHIP • REPEAT`
+
+*I enjoy turning ideas into practical software — and learning how to build it better every time.*
+
+<br>
+
+<a href="https://dhanya-portfolio-flax.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/sHv5f7MeTX/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 </div>
 
@@ -21,70 +28,63 @@
 
 <div align="center">
 
-### `01 / ABOUT`
+## ✦ ABOUT ME
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### Build
+### 🎓
 
-I enjoy building **end-to-end software** and turning ideas into practical applications.
+**Computer Science**
 
-**Web · Mobile · APIs · Real-time systems**
+B.Tech CSE
+VISTAS × Kalvium
+Chennai · 2028
 
 </td>
-<td width="50%">
 
-### Learn
+<td align="center" width="33%">
 
-Currently going deeper into the engineering behind reliable software.
+### 💻
 
-**DSA · Backend · System Design · DevOps · AI**
+**I Build**
+
+Web applications
+Mobile apps
+Real-time systems
+AI-powered tools
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**I Explore**
+
+DSA
+Backend engineering
+System design
+DevOps & AI
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
 <div align="center">
 
-### `02 / MY TOOLBOX`
-
-</div>
-
-<div align="center">
-
-**LANGUAGES**
-
-`Java` · `Python` · `C++` · `JavaScript` · `Dart`
+## ✦ TECHNOLOGIES I WORK WITH
 
 <br>
 
-**FRONTEND**
-
-`React` · `Flutter` · `HTML` · `CSS`
-
-<br>
-
-**BACKEND**
-
-`Node.js` · `Express` · `NestJS` · `REST APIs` · `Socket.IO`
-
-<br>
-
-**DATABASES & SERVICES**
-
-`MongoDB` · `PostgreSQL` · `Firebase` · `Supabase`
-
-<br>
-
-**TOOLS**
-
-`Git` · `GitHub` · `Postman` · `Vite`
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,react,flutter,nodejs,express,nestjs,mongodb,postgres,firebase,supabase,git,github,postman,vite&perline=9" />
 
 </div>
 
@@ -92,46 +92,31 @@ Currently going deeper into the engineering behind reliable software.
 
 <div align="center">
 
-### `03 / CURRENTLY EXPLORING`
+## ✦ CURRENTLY LEVELING UP
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=555555&center=true&vCenter=true&width=650&height=45&lines=DSA+%E2%86%92+Problem+Solving;Backend+%E2%86%92+APIs+%7C+Auth+%7C+Architecture;System+Design+%E2%86%92+Building+for+scale;DevOps+%E2%86%92+CI%2FCD+%7C+Deployment;AI+Engineering+%E2%86%92+Building+with+AI" alt="Currently learning" />
 
 </div>
-
-```text
-DSA              ████████████░░   Problem solving
-Backend          ███████████░░░   APIs · Auth · Architecture
-System Design    █████████░░░░░   Scalable systems
-DevOps           ███████░░░░░░░   CI/CD · Deployment
-AI Engineering   ████████░░░░░░   AI-powered applications
-```
 
 ---
 
 <div align="center">
 
-### `04 / ELSEWHERE`
+## ✦ THE CONTRIBUTION WALL
 
 <br>
 
-🌐 **[PORTFOLIO](https://dhanya-portfolio-flax.vercel.app/)**
-*Work · Experience · More about me*
+<img src="https://raw.githubusercontent.com/DHANYA-00/DHANYA-00/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
-<br>
-
-💼 **[LINKEDIN](https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/)**
-*Professional journey*
-
-<br>
-
-🧩 **[LEETCODE](https://leetcode.com/u/sHv5f7MeTX/)**
-*DSA & problem solving*
-
-<br>
-
-📧 **[EMAIL](mailto:dhanyalakshmi.s.s.06@gmail.com)**
-
-<br><br>
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 ### `keep building.`
 
