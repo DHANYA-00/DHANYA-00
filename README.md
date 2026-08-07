@@ -1,80 +1,140 @@
+<div align="center">
+
 # DHANYA LAKSHMI S S
 
-**Computer Science Student · Full-Stack Developer · Software Builder**
+### `software engineer in progress`
 
-> I like turning ideas into products — from real-time web applications and mobile apps to AI-powered tools.
+**Computer Science Student · Full-Stack Developer · Builder**
 
----
+*Turning ideas into software that people can actually use.*
 
-### ✦ A little about me
+<br>
 
-🎓 **B.Tech CSE** · VISTAS × Kalvium · Chennai · 2028
+[ **Portfolio** ](https://dhanya-portfolio-flax.vercel.app/) ·
+[ **LinkedIn** ](https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/) ·
+[ **LeetCode** ](https://leetcode.com/u/sHv5f7MeTX/) ·
+**Chennai, India**
 
-💻 Building with **React · Node.js · Flutter · Python**
-
-🧠 Currently sharpening **DSA · Backend Engineering · System Design**
-
-🚀 Interested in building software that is **useful, scalable, and actually shipped**
-
----
-
-### ✦ Things I build
-
-**🌐 Full-Stack Applications**
-React · Node.js · Express · NestJS · REST APIs
-
-**📱 Mobile Applications**
-Flutter · Dart · Firebase
-
-**⚡ Real-Time Systems**
-Socket.IO · Multiplayer applications
-
-**🤖 AI & Data Applications**
-Python · AI APIs · Streamlit · Data-driven applications
-
-**🗄️ Backend & Databases**
-MongoDB · MySQL · PostgreSQL · Authentication
+</div>
 
 ---
 
-### ✦ Selected work
+<div align="center">
 
-**[EasyInsure Claims](https://github.com/DHANYA-00)**
-Insurance claims management platform for patients and insurers.
+### `01 / ABOUT`
 
-**[Food War](https://github.com/DHANYA-00/Food-Wars)**
-Real-time multiplayer ingredient guessing game.
+</div>
 
-**[SmartNews](https://github.com/DHANYA-00/Smart-News)**
-AI-powered multilingual news and learning application.
+<table>
+<tr>
+<td width="50%">
 
-**[BalanceBuddy](https://github.com/kalviumcommunity/S75_DhanyaLakshmi_Capstone_BalanceBuddy)**
-Personal finance management platform for budgets, transactions, and savings.
+### Build
+
+I enjoy building **end-to-end software** and turning ideas into practical applications.
+
+**Web · Mobile · APIs · Real-time systems**
+
+</td>
+<td width="50%">
+
+### Learn
+
+Currently going deeper into the engineering behind reliable software.
+
+**DSA · Backend · System Design · DevOps · AI**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✦ Currently learning
+<div align="center">
+
+### `02 / MY TOOLBOX`
+
+</div>
+
+<div align="center">
+
+**LANGUAGES**
+
+`Java` · `Python` · `C++` · `JavaScript` · `Dart`
+
+<br>
+
+**FRONTEND**
+
+`React` · `Flutter` · `HTML` · `CSS`
+
+<br>
+
+**BACKEND**
+
+`Node.js` · `Express` · `NestJS` · `REST APIs` · `Socket.IO`
+
+<br>
+
+**DATABASES & SERVICES**
+
+`MongoDB` · `PostgreSQL` · `Firebase` · `Supabase`
+
+<br>
+
+**TOOLS**
+
+`Git` · `GitHub` · `Postman` · `Vite`
+
+</div>
+
+---
+
+<div align="center">
+
+### `03 / CURRENTLY EXPLORING`
+
+</div>
 
 ```text
-DSA              ███████████░░░
-Backend          ██████████░░░░
-System Design    ████████░░░░░░
-DevOps           ██████░░░░░░░░
-AI Engineering   ███████░░░░░░░
+DSA              ████████████░░   Problem solving
+Backend          ███████████░░░   APIs · Auth · Architecture
+System Design    █████████░░░░░   Scalable systems
+DevOps           ███████░░░░░░░   CI/CD · Deployment
+AI Engineering   ████████░░░░░░   AI-powered applications
 ```
 
 ---
 
-### ✦ Find me elsewhere
+<div align="center">
 
-**Portfolio** → [dhanya-portfolio-flax.vercel.app](https://dhanya-portfolio-flax.vercel.app/)
+### `04 / ELSEWHERE`
 
-**LinkedIn** → [linkedin.com/in/dhanya-lakshmi-s-s-6114ab329](https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/)
+<br>
 
-**LeetCode** → [leetcode.com/u/sHv5f7MeTX](https://leetcode.com/u/sHv5f7MeTX/)
+🌐 **[PORTFOLIO](https://dhanya-portfolio-flax.vercel.app/)**
+*Work · Experience · More about me*
 
-**Email** → [dhanyalakshmi.s.s.06@gmail.com](mailto:dhanyalakshmi.s.s.06@gmail.com)
+<br>
+
+💼 **[LINKEDIN](https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/)**
+*Professional journey*
+
+<br>
+
+🧩 **[LEETCODE](https://leetcode.com/u/sHv5f7MeTX/)**
+*DSA & problem solving*
+
+<br>
+
+📧 **[EMAIL](mailto:dhanyalakshmi.s.s.06@gmail.com)**
+
+<br><br>
 
 ---
 
-> **Build it. Break it. Understand it. Build it better.**
+### `keep building.`
+
+**Learn → Build → Break → Understand → Improve**
+
+</div>
