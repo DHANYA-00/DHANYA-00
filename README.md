@@ -100,17 +100,6 @@ DevOps & AI
 
 </div>
 
----
-
-<div align="center">
-
-## ✦ THE CONTRIBUTION WALL
-
-<br>
-
-<img src="https://raw.githubusercontent.com/DHANYA-00/DHANYA-00/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
 
 ---
 
