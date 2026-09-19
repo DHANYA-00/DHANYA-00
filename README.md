@@ -40,8 +40,8 @@
 
 **Computer Science**
 
-B.Tech CSE
-VISTAS × Kalvium
+B.Tech CSE  
+VISTAS × Kalvium  
 Chennai · 2028
 
 </td>
@@ -52,9 +52,9 @@ Chennai · 2028
 
 **I Build**
 
-Web applications
-Mobile apps
-Real-time systems
+Web applications  
+Mobile apps  
+Real-time systems  
 AI-powered tools
 
 </td>
@@ -65,9 +65,9 @@ AI-powered tools
 
 **I Explore**
 
-DSA
-Backend engineering
-System design
+DSA  
+Backend engineering  
+System design  
 DevOps & AI
 
 </td>
@@ -92,14 +92,63 @@ DevOps & AI
 
 <div align="center">
 
+## ✦ FEATURED PROJECTS
+
+</div>
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🚀 Portfolio Website** | Personal developer portfolio built for high performance and sleek aesthetics. | `React` `Vite` `Tailwind` | [Live Demo](https://dhanya-portfolio-flax.vercel.app/) \| [Repo](https://github.com/DHANYA-00) |
+| **⚡ Real-time App** | Scalable web application featuring dynamic state management and instant sync. | `Node.js` `Express` `MongoDB` | [Demo](https://github.com/DHANYA-00) \| [Repo](https://github.com/DHANYA-00) |
+
+<br>
+
+---
+
+<div align="center">
+
+## ✦ GITHUB STATS & METRICS
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANYA-00&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYA-00&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANYA-00&theme=tokyonight&hide_border=true&fire=7C3AED&ring=7C3AED" width="97%" alt="GitHub Streak" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
 ## ✦ CURRENTLY LEVELING UP
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=555555&center=true&vCenter=true&width=650&height=45&lines=DSA+%E2%86%92+Problem+Solving;Backend+%E2%86%92+APIs+%7C+Auth+%7C+Architecture;System+Design+%E2%86%92+Building+for+scale;DevOps+%E2%86%92+CI%2FCD+%7C+Deployment;AI+Engineering+%E2%86%92+Building+with+AI" alt="Currently learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=650&height=45&lines=DSA+%E2%86%92+Problem+Solving;Backend+%E2%86%92+APIs+%7C+Auth+%7C+Architecture;System+Design+%E2%86%92+Building+for+scale;DevOps+%E2%86%92+CI%2FCD+%7C+Deployment;AI+Engineering+%E2%86%92+Building+with+AI" alt="Currently learning" />
 
 </div>
 
+---
+
+<div align="center">
+
+## ✦ CONTRIBUTION SNAKE
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHANYA-00/DHANYA-00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHANYA-00/DHANYA-00/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DHANYA-00/DHANYA-00/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
