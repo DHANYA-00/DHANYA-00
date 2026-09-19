@@ -1,25 +1,29 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=DHANYA%20LAKSHMI%20S%20S&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+<!-- Glassmorphism Banner with Crystal Sphere -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:0284C7&height=220&section=header&text=DHANYA%20LAKSHMI%20S%20S&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" />
+
+<br>
 
 <!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+Computer+Science+Student;%F0%9F%92%A1+Full-Stack+%26+AI+Developer;%F0%9F%9A%80+Turning+ideas+into+real-world+apps" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Dhanya!+;%F0%9F%8D%B3+Computer+Science+Student+%40+VISTAS%2FKalvium+'28;%E2%9A%A1+Building+with+Code+%26+Coffee" alt="Typing Intro" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Glowing Social Pill Buttons -->
+<!-- Glass Neon Buttons -->
 <p align="center">
   <a href="https://dhanya-portfolio-flax.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-111827?style=for-the-badge&logoColor=violet&color=8B5CF6" />
+    <img src="https://img.shields.io/badge/🔮_PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0F172A&color=7C3AED" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A&color=0284C7" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/sHv5f7MeTX/">
-    <img src="https://img.shields.io/badge/🔥_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/⚡_LEETCODE-0F172A?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=0F172A&color=D97706" />
   </a>
 </p>
 
@@ -27,87 +31,121 @@
 
 <br>
 
-<!-- About & Focus Grid -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Quick Snapshot</h3>
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech CSE @ VISTAS × Kalvium ('28)</li>
-        <li>📍 <b>Based in:</b> Chennai, India</li>
-        <li>💼 <b>Building:</b> Web apps, AI tools & microservices</li>
-        <li>🎯 <b>Current Focus:</b> Deep-diving into System Design & DevOps</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Live Activity Graph</h3>
-      <a href="https://github.com/DHANYA-00">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANYA-00&theme=react-dark&hide_border=true&area=true&color=8B5CF6" width="100%" />
-      </a>
-    </td>
-  </tr>
+---
+
+<div align="center">
+
+## ✦ ABOUT ME
+
+<br>
+
+<!-- Glassmorphism Grid Cards -->
+<table align="center" border="0" style="border-collapse: collapse;">
+<tr>
+<td align="center" width="33%" style="background: rgba(124, 58, 237, 0.05); border: 1px solid #7C3AED; border-radius: 12px; padding: 15px;">
+
+### 🎓
+**Computer Science**
+
+B.Tech CSE  
+VISTAS × Kalvium  
+Chennai · 2028
+
+</td>
+<td align="center" width="33%" style="background: rgba(14, 165, 233, 0.05); border: 1px solid #0EA5E9; border-radius: 12px; padding: 15px;">
+
+### 💻
+**I Build**
+
+Web applications  
+Mobile apps  
+Real-time systems  
+AI-powered tools
+
+</td>
+<td align="center" width="33%" style="background: rgba(244, 63, 94, 0.05); border: 1px solid #F43F5E; border-radius: 12px; padding: 15px;">
+
+### 🧠
+**I Explore**
+
+DSA  
+Backend engineering  
+System design  
+DevOps & AI
+
+</td>
+</tr>
 </table>
 
+</div>
+
 <br>
 
-<!-- Tech Stack Container -->
+---
+
 <div align="center">
 
-<h2>🛠️ Tech Stack & Ecosystem</h2>
+## ✦ ACTIVITY TRACKER
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br>
+
+<!-- Game Animated Contribution Graphic & Stats -->
+<p align="center">
+  <img src="https://m2-github-readme-stats.vercel.app/api?username=DHANYA-00&theme=dracula&hide_border=true&title_color=A78BFA&icon_color=38BDF8&bg_color=0D1117" width="48%" />
+  <img src="https://m2-github-readme-stats.vercel.app/api/top-langs/?username=DHANYA-00&layout=compact&theme=dracula&hide_border=true&title_color=A78BFA&bg_color=0D1117" width="48%" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<!-- Live Commit Activity Curve -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANYA-00&theme=react-dark&hide_border=true&area=true&color=7C3AED&line=38BDF8&bg_color=0D1117" width="97%" />
 </p>
 
 </div>
 
 <br>
 
-<!-- Glowing Stats Grid -->
+---
+
 <div align="center">
 
-<h2>📈 Performance & Contributions</h2>
+## ✦ TECHNOLOGIES I WORK WITH
 
 <br>
 
+<!-- Holographic Glow Icons Grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANYA-00&show_icons=true&theme=synthwave&hide_border=true&title_color=8B5CF6&icon_color=A78BFA" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYA-00&layout=compact&theme=synthwave&hide_border=true&title_color=8B5CF6" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANYA-00&theme=synthwave&hide_border=true&fire=8B5CF6&ring=A78BFA" width="97%" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,react,flutter,nodejs,express,nestjs,mongodb,postgres,firebase,supabase,git,github,postman,vite&perline=9" />
 </p>
 
 </div>
 
 <br>
 
-<!-- Footer -->
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" width="100%" />
+## ✦ CURRENTLY LEVELING UP
 
-<sub>Designed with 💜 by Dhanya Lakshmi</sub>
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=F59E0B&center=true&vCenter=true&width=700&height=40&lines=DSA+Mastery+%E2%86%92+Solving+500%2B+problems;Backend+Architectures+%E2%86%92+Scalable+Microservices;DevOps+%26+Cloud+%E2%86%92+CI%2FCD+Automations" alt="Leveling Up" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<!-- Futuristic Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0284C7&height=120&section=footer" width="100%" />
+
+### `keep building.`
+
+**Learn → Build → Break → Understand → Improve**
 
 </div>
