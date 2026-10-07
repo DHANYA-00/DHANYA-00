@@ -6,18 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Dhanya!;%F0%9F%8E%93+CS+Student+%40+VISTAS%2FKalvium+'28;%F0%9F%92%BC+Ex-SDE+Intern+%40+Kalvium+Labs;%E2%9A%A1+Building+with+Code+%26+Coffee" alt="Typing Intro" />
 </a>
 
-<br><br>
-
-<a href="https://dhanya-portfolio-flax.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-View_my_work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C2D57" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/sHv5f7MeTX/">
-  <img src="https://img.shields.io/badge/LEETCODE-See_my_solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=3A2A05" alt="LeetCode" />
-</a>
-
 </div>
 
 ---
