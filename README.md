@@ -9,13 +9,13 @@
 <br><br>
 
 <a href="https://dhanya-portfolio-flax.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0F172A&color=7C3AED" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-View_my_work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A&color=0284C7" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C2D57" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/sHv5f7MeTX/">
-  <img src="https://img.shields.io/badge/LEETCODE-0F172A?style=for-the-badge&logo=leetcode&logoColor=F59E0B&labelColor=0F172A&color=D97706" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LEETCODE-See_my_solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=3A2A05" alt="LeetCode" />
 </a>
 
 </div>
@@ -122,6 +122,52 @@ Add 2-3 lines about what you did, for example:
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+## ✦ FIND ME ONLINE
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+
+### 🔮 Portfolio
+
+Projects, case studies<br>and things I've built
+
+<a href="https://dhanya-portfolio-flax.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_site-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Visit portfolio" />
+</a>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🌐 LinkedIn
+
+Experience, education<br>and professional updates
+
+<a href="https://www.linkedin.com/in/dhanya-lakshmi-s-s-6114ab329/">
+  <img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### ⚡ LeetCode
+
+Daily practice and<br>DSA problem solving
+
+<a href="https://leetcode.com/u/sHv5f7MeTX/">
+  <img src="https://img.shields.io/badge/View_profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="View LeetCode profile" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
